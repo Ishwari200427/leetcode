@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ishwari200427/leetcode/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Ishwari200427/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Ishwari200427/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Ishwari200427/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Ishwari200427/leetcode/tree/master/0290-word-pattern) |
 ## Breadth-First Search
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Ishwari200427/leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Ishwari200427/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Ishwari200427/leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Ishwari200427/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Ishwari200427/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Ishwari200427/leetcode/tree/master/0344-reverse-string) |
 ## Divide and Conquer
@@ -86,4 +88,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Ishwari200427/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Ishwari200427/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
