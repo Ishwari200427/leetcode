@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ishwari200427/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Ishwari200427/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Ishwari200427/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ishwari200427/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Ishwari200427/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Ishwari200427/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ishwari200427/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Trie
 |  |
 | ------- |
