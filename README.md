@@ -161,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Ishwari200427/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Ishwari200427/leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
