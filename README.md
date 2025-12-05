@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Ishwari200427/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Ishwari200427/leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Ishwari200427/leetcode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Ishwari200427/leetcode/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/Ishwari200427/leetcode/tree/master/0507-perfect-number) |
 ## String
 |  |
@@ -166,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Ishwari200427/leetcode/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/Ishwari200427/leetcode/tree/master/0182-duplicate-emails) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Ishwari200427/leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Ishwari200427/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
