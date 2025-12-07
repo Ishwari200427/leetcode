@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Ishwari200427/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Ishwari200427/leetcode/tree/master/0013-roman-to-integer) |
+| [0171-excel-sheet-column-number](https://github.com/Ishwari200427/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Ishwari200427/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Ishwari200427/leetcode/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/Ishwari200427/leetcode/tree/master/0507-perfect-number) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ishwari200427/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Ishwari200427/leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Ishwari200427/leetcode/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/Ishwari200427/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Ishwari200427/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ishwari200427/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Ishwari200427/leetcode/tree/master/0290-word-pattern) |
