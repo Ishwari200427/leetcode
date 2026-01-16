@@ -1,23 +1,22 @@
 class Solution {
     public String capitalizeTitle(String title) {
-        String words[]=title.split(" ");
-        StringBuffer sb=new StringBuffer();
-        
-        for(int i=0;i<words.length;i++)
-        {
-            words[i]=words[i].toLowerCase();
-            if(words[i].length()<=2)
-            {
+        String[] words = title.split(" ");
+        StringBuffer sb = new StringBuffer();
+
+        for (int i = 0; i < words.length; i++) {
+            words[i] = words[i].toLowerCase();
+
+            if (words[i].length() <= 2) {
                 sb.append(words[i]);
-            }
-            else
-            {
+            } else {
                 sb.append(
-                    String.valueOf(Character.toUpperCase(words[i].charAt(0))+ words[i].substring(1))  );
+                    String.valueOf(Character.toUpperCase(words[i].charAt(0)))
+                    + words[i].substring(1)
+                );
             }
-            if(i<words.length-1) // this is for adding space except last word
-            {
-                sb.append(" "); 
+
+            if (i < words.length - 1) { //this is for adding space between words except last one 
+                sb.append(" ");
             }
         }
         return sb.toString();
