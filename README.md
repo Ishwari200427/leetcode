@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Ishwari200427/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ishwari200427/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0709-to-lower-case](https://github.com/Ishwari200427/leetcode/tree/master/0709-to-lower-case) |
+| [2129-capitalize-the-title](https://github.com/Ishwari200427/leetcode/tree/master/2129-capitalize-the-title) |
 ## Divide and Conquer
 |  |
 | ------- |
