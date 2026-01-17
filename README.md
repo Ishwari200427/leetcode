@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Ishwari200427/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ishwari200427/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Ishwari200427/leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Ishwari200427/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Ishwari200427/leetcode/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/Ishwari200427/leetcode/tree/master/0507-perfect-number) |
 ## String
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Ishwari200427/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Ishwari200427/leetcode/tree/master/0231-power-of-two) |
 ## Sorting
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Ishwari200427/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Ishwari200427/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Ishwari200427/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
