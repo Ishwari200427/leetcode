@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Ishwari200427/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Ishwari200427/leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Ishwari200427/leetcode/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/Ishwari200427/leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Ishwari200427/leetcode/tree/master/0507-perfect-number) |
 ## String
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Ishwari200427/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Ishwari200427/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ishwari200427/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/Ishwari200427/leetcode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Ishwari200427/leetcode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Ishwari200427/leetcode/tree/master/0709-to-lower-case) |
 | [2129-capitalize-the-title](https://github.com/Ishwari200427/leetcode/tree/master/2129-capitalize-the-title) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Ishwari200427/leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Ishwari200427/leetcode/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
