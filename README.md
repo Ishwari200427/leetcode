@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Ishwari200427/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Ishwari200427/leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Ishwari200427/leetcode/tree/master/0507-perfect-number) |
+| [2525-categorize-box-according-to-criteria](https://github.com/Ishwari200427/leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 ## String
 |  |
 | ------- |
