@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Ishwari200427/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Ishwari200427/leetcode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Ishwari200427/leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/Ishwari200427/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ishwari200427/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Ishwari200427/leetcode/tree/master/0202-happy-number) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Ishwari200427/leetcode/tree/master/0069-sqrtx) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ishwari200427/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0792-binary-search](https://github.com/Ishwari200427/leetcode/tree/master/0792-binary-search) |
 ## Two Pointers
