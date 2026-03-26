@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Ishwari200427/leetcode/tree/master/0228-summary-ranges) |
 | [0561-array-partition](https://github.com/Ishwari200427/leetcode/tree/master/0561-array-partition) |
 | [0792-binary-search](https://github.com/Ishwari200427/leetcode/tree/master/0792-binary-search) |
+| [0860-lemonade-change](https://github.com/Ishwari200427/leetcode/tree/master/0860-lemonade-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Ishwari200427/leetcode/tree/master/0561-array-partition) |
+| [0860-lemonade-change](https://github.com/Ishwari200427/leetcode/tree/master/0860-lemonade-change) |
 ## Counting Sort
 |  |
 | ------- |
