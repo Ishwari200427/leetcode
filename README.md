@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ishwari200427/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Ishwari200427/leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Ishwari200427/leetcode/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ishwari200427/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ishwari200427/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Ishwari200427/leetcode/tree/master/0136-single-number) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Ishwari200427/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Ishwari200427/leetcode/tree/master/0069-sqrtx) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ishwari200427/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Ishwari200427/leetcode/tree/master/0222-count-complete-tree-nodes) |
