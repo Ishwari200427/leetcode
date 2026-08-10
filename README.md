@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ishwari200427/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ishwari200427/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Ishwari200427/leetcode/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/Ishwari200427/leetcode/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Ishwari200427/leetcode/tree/master/0561-array-partition) |
 | [0792-binary-search](https://github.com/Ishwari200427/leetcode/tree/master/0792-binary-search) |
 | [0860-lemonade-change](https://github.com/Ishwari200427/leetcode/tree/master/0860-lemonade-change) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ishwari200427/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ishwari200427/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Ishwari200427/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Ishwari200427/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Ishwari200427/leetcode/tree/master/0290-word-pattern) |
 ## Breadth-First Search
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ishwari200427/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ishwari200427/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Ishwari200427/leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Ishwari200427/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Ishwari200427/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Ishwari200427/leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Ishwari200427/leetcode/tree/master/0507-perfect-number) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Ishwari200427/leetcode/tree/master/0069-sqrtx) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ishwari200427/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Ishwari200427/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Ishwari200427/leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Ishwari200427/leetcode/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Ishwari200427/leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Ishwari200427/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Ishwari200427/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Ishwari200427/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Ishwari200427/leetcode/tree/master/0338-counting-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Ishwari200427/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Sorting
@@ -152,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ishwari200427/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ishwari200427/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ishwari200427/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Ishwari200427/leetcode/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Ishwari200427/leetcode/tree/master/0561-array-partition) |
 ## Counting
 |  |
